@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_d9wDICSREe-y28WSGKTe1Q" label="sandbox-adi" description="" language="java" technicalLabel="SANDBOX_ADI" author="_d9wDISSREe-y28WSGKTe1Q" productVersion="Talend Real-time Big Data Platform-8.0.1.20240820_0946-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;http://10.100.13.3/internal-adi/talend-internal-adi.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_d-UD0CSREe-y28WSGKTe1Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_d9wDISSREe-y28WSGKTe1Q" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_gZqE4SSREe-r8-ufl4TtBw" login="dev1@company.com" firstName="dev" lastName="1" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_gZqE4iSREe-r8-ufl4TtBw" login="dev2@company.com" firstName="dev" lastName="2" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_gZqE4ySREe-r8-ufl4TtBw" login="admin2@company.com" firstName="admin" lastName="2" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_I68AoGXMEe-FZJLWt-kUZA" login="dian.yunadi@alldataint.net" firstName="Dian" lastName="Yunadi" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_I68AoWXMEe-FZJLWt-kUZA" login="nikko.haendratnio@alldataint.net" firstName="Nikko" lastName="Haendratnio" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_I68AomXMEe-FZJLWt-kUZA" login="syahroni@alldataint.com" firstName="Syahroni" lastName="Aben" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_De4x4GmhEe-WcaYxN-EtjA" login="system.teams@alldataint.net" firstName="System" lastName="Teams" type="DQ" additionnalData="{}"/>
+</xmi:XMI>

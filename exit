@@ -1,0 +1,117 @@
+[33mcommit 3c34f09618b3c32803d40406be001b5c71569533[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 17:26:01 2024 +0700
+
+    penambahan file cobapertama.html
+
+[33mcommit 78a88d2ed6146e1f2dbca4b8764b0d218441c2dd[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 14:19:18 2024 +0700
+
+    perubahan pertama penghapus.html
+
+[33mcommit 8e29d2c010a6c93efa60a01a69d87e5bb4a4a71b[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 13:02:45 2024 +0700
+
+    ngebalikin hapus.html
+
+[33mcommit 2abfb8f6d25cb3d5fe04adb989419224b72870cb[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 11:26:05 2024 +0700
+
+    penambahan hapus password dan pindah
+
+[33mcommit 0ce70e5fa637912a149e83bcbc3e2c33f4640e78[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 11:10:31 2024 +0700
+
+    perubahan file login.html ke 3
+
+[33mcommit 018bdaeb84c0a31970cc9c9eddd299209d9293fa[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 11:00:47 2024 +0700
+
+    menambahkan isi lagi yg ke 2 ke file login.html
+
+[33mcommit 28051491d542b595e5c8c891389ba7552b032081[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 10:55:57 2024 +0700
+
+    menambahkan isi dari file login.html
+
+[33mcommit 413317343a4c604ba54a35faf43bd025cb9406d2[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 10:51:23 2024 +0700
+
+    menambahkan file login
+
+[33mcommit d8613cc3659a5ea39ae93ad614783ac3d51cb3af[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 08:46:57 2024 +0700
+
+    mengembalikan style.css
+
+[33mcommit 40c7866670043b335d321d03d7b825acfaf107c6[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 08:43:34 2024 +0700
+
+    melakukan perubahan
+
+[33mcommit e0493780a91ec2941e0b74806df656a7f3194037[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 08:35:53 2024 +0700
+
+    mengubah file index dan menambahkan file style.css
+
+[33mcommit 9e72498824358d7e510de0b85935df1f364a76ac[m
+Author: yogi <insan.prayogi@alldataint.net>
+Date:   Thu Sep 12 08:30:24 2024 +0700
+
+    menambahkan file index.html
+
+[33mcommit 34092bfbd7c6cb8bf37e8aa7b53433a6b3d65dcc[m
+Merge: 0c5868b be590cf
+Author: fitra2121 <agus.fitradi@alldataint.net>
+Date:   Tue Sep 3 09:28:57 2024 +0700
+
+    Merge pull request #1 from bydps/cabang1
+    
+    Cabang1
+
+[33mcommit be590cf60e1742fc744e59bb33f0a073f39f3bea[m
+Merge: 4469edf 0c5868b
+Author: fitra2121 <agus.fitradi@alldataint.net>
+Date:   Tue Sep 3 09:28:40 2024 +0700
+
+    Merge branch 'main' into cabang1
+
+[33mcommit 0c5868b8b0f4077afd3f981df3faa6cc9ab70eb8[m
+Author: fitra2121 <agus.fitradi@alldataint.net>
+Date:   Tue Sep 3 09:21:22 2024 +0700
+
+    penambahan kata main
+
+[33mcommit 4469edfe894abf751ac598f371a161b132e5c000[m
+Author: fitra2121 <agus.fitradi@alldataint.net>
+Date:   Tue Sep 3 09:20:31 2024 +0700
+
+    Update test2.txt
+
+[33mcommit c86d109473cc474a2c5f4df7bd2ee2f82a092aaa[m
+Author: fitra2121 <agus.fitradi@alldataint.net>
+Date:   Tue Sep 3 09:19:39 2024 +0700
+
+    Perubahan Branch
+
+[33mcommit 7d29efab3c9a202d349d79a4ef1ac7b27dd4e715[m
+Author: fitra2121 <agus.fitradi@alldataint.net>
+Date:   Tue Sep 3 08:24:28 2024 +0700
+
+    menambahkan file 2
+
+[33mcommit 9e5b25aa1324886ebfeddaf9ac821a0bdd89cede[m
+Author: fitra2121 <agus.fitradi@alldataint.net>
+Date:   Tue Sep 3 08:02:58 2024 +0700
+
+    membuat file di collaboration

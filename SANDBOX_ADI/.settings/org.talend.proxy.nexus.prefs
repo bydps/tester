@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+nexus.proxy.enable=true
+nexus.proxy.repository.id=talend-releases
+nexus.proxy.type=NEXUS_3
+nexus.proxy.url=http\://10.100.13.139\:8081/
